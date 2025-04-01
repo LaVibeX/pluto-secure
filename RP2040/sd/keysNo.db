@@ -1,0 +1,14 @@
+{
+    "github.com": {
+      "username": "myemail@example.com",
+      "password": "MySecurePass123"
+    },
+    "gmail.com": {
+      "username": "anotheruser@gmail.com",
+      "password": "GmailPass987"
+    },
+    "linkedin.com": {
+      "username": "myprofile@linkedin.com",
+      "password": "LinkedInStrongPass!"
+    }
+}

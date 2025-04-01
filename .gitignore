@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+#CircuitPython trash
+.Trashes
+.Trash-1000
+.metadata_never_index
+RP2040/.fseventsd/no_log
+
 # Distribution / packaging
 .Python
 build/
@@ -83,6 +89,7 @@ profile_default/
 ipython_config.py
 
 # pyenv
+/myenv/
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:
 # .python-version
